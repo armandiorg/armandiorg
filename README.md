@@ -1,7 +1,10 @@
-## Hi there 👋
 
 <!--
-**armandiorg/armandiorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**armandiorg/armandiorg** is a 
+
+https://github.com/user-attachments/assets/192f3761-d32d-492e-a2db-ec20aad75d8a
+
+✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
